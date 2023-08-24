@@ -1,0 +1,27 @@
+body{
+	background-color: White;
+	
+}
+	
+	h3 {
+		
+		color:red;
+		text-align: right;
+	
+	}
+	
+	h1 {
+		color: black;
+		text-align: left;
+		font-family: montserrat;
+	}
+	img{
+		
+		
+		
+	
+	
+	
+	
+	
+}
